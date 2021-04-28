@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # First change...
 
 
 # Second change for git testing
+=======
+>>>>>>> parent of 7347d69... new
